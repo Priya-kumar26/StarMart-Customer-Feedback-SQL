@@ -1,0 +1,42 @@
+StarMart Customer Feedback and Sentiment Analysis
+Project Overview
+This project involves creating a comprehensive SQL database to manage and analyze customer feedback for StarMart, a retail store chain. It captures detailed information on customers, products, store locations, purchase history, and customer feedback including sentiment scores. Using advanced SQL queries, the project extracts valuable insights into product performance, customer satisfaction trends, and store effectiveness, supporting data-driven decision-making for enhancing customer experience.
+
+Objectives
+Design a normalized relational database schema covering customers, products, stores, purchases, and feedback.
+
+Develop SQL scripts to create tables and insert sample data for testing.
+
+Write analytical queries to evaluate sentiment trends, identify top-performing products, and segment customers based on feedback.
+
+Showcase ability to handle real-world retail data challenges with SQL and derive actionable business insights.
+
+Project Structure
+/sql
+
+create_tables.sql — Database schema creation scripts.
+
+insert_sample_data.sql — Optional scripts to add sample data.
+
+important_queries.sql — Key analysis queries for sentiment scores, top products, customer segmentation, and trends.
+
+/docs — Optional documentation files.
+
+README.md — Project description, objectives, usage instructions.
+
+Usage Instructions
+Execute create_tables.sql to build the database schema.
+
+Load example data using insert_sample_data.sql (optional).
+
+Run analytical queries from important_queries.sql to generate reports on customer feedback and product performance.
+
+Modify and extend queries as needed for personalized analysis or business requirements.
+
+Tools and Technologies
+SQL Server (or MySQL/PostgreSQL based on your environment)
+
+Git and GitHub for version control and project hosting
+
+Author
+Priya M
